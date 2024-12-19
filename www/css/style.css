@@ -101,7 +101,9 @@ textarea.form-control {
     display: flex;
     justify-content: flex-end;
 }
-
+btn-collar{
+   
+}
 .btn-primary {
     background-color: #007bff;
     color: white;
